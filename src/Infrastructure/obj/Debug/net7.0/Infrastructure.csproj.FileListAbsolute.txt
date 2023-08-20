@@ -1,0 +1,17 @@
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/bin/Debug/net7.0/Application.dll
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/bin/Debug/net7.0/Domain.dll
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/bin/Debug/net7.0/Application.pdb
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/bin/Debug/net7.0/Domain.pdb
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/obj/Debug/net7.0/Infrastructure.dll
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
+/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll

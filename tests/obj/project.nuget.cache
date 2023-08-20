@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8lXEDvG0jVIDHSKrmUuwh0FZfxQ8k6Ut5epkdVNggHhlbdvAlL0NStZY21rcLdDT1Kdh4RHPe1VH7pLDbgMihw==",
+  "dgSpecHash": "bFJ2tFB6la5t/kj8BuVVAn/dRDAcLw4VuX/++BERaFQZZtd5SvTozVB1pSjUrxO1+Pnj/wQUSmKDwprm1Q0Xug==",
   "success": true,
   "projectFilePath": "/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/tests/tests.csproj",
   "expectedPackageFiles": [
@@ -92,7 +92,9 @@
     "/Users/yonassayfu/.nuget/packages/xunit.core/2.4.2/xunit.core.2.4.2.nupkg.sha512",
     "/Users/yonassayfu/.nuget/packages/xunit.extensibility.core/2.4.2/xunit.extensibility.core.2.4.2.nupkg.sha512",
     "/Users/yonassayfu/.nuget/packages/xunit.extensibility.execution/2.4.2/xunit.extensibility.execution.2.4.2.nupkg.sha512",
-    "/Users/yonassayfu/.nuget/packages/xunit.runner.visualstudio/2.4.5/xunit.runner.visualstudio.2.4.5.nupkg.sha512"
+    "/Users/yonassayfu/.nuget/packages/xunit.runner.visualstudio/2.4.5/xunit.runner.visualstudio.2.4.5.nupkg.sha512",
+    "/Users/yonassayfu/.nuget/packages/microsoft.netcore.app.ref/7.0.9/microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "/Users/yonassayfu/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
   ],
   "logs": []
 }

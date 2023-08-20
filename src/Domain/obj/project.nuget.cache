@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3WpbSWtcO3Ao6USsIVwAI3A/E84aml4ko974xIpBluuY2grKmFh5KfNj80dJWAKW4tWFXymXdxumYbBFBhOE1g==",
+  "dgSpecHash": "dKUcWLcx7lLiqQrQfEC4ngtpyIra+lE1GRZDsQKw1sWzZAGvtjBk2S6tiKjyiItM4TbJcaSyx4+640awWaXRSg==",
   "success": true,
   "projectFilePath": "/Users/yonassayfu/Projects/CleanArchDemo/dotnetCleanArch/src/Domain/Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/yonassayfu/.nuget/packages/microsoft.netcore.app.ref/7.0.9/microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "/Users/yonassayfu/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
